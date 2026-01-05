@@ -1,3 +1,4 @@
+This is my mini project of PFC .
 Problem : First Count number of digits using a loop.Then extract digits again.For each digit calculate digit^count using a loop.Add result and compare with original number.
 How to approach the problem :
 1. Firstly we take a number input from the user .
